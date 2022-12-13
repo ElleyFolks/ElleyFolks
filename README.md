@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElleyFolks!
-- 👀 I’m interested in ... remote internships with cybersecurity, cryptography, math, and science;
+- 👀 I’m interested in ... internships with cybersecurity, cryptography, math, and science;
 - 🌱 I’m currently learning ... computer science, python, C++, Discrete;
 - 💞️ I’m looking to collaborate on ... cybersecurty projects or internships; 
 - 📫 How to reach me ... elleyfolks@gmail.com, find me on handshake, linkedin: https://www.linkedin.com/in/elley-folks-972115255/
