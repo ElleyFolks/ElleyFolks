@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElleyFolks!
-- 👀 I’m interested in ... computer science, cybersecurity, cryptography, math, and science;
-- 🌱 I’m currently learning ... computer science, python, C++, Discrete; 
+- 👀 I’m interested in ... computer science, cybersecurity, math, and science;
+- 🌱 I’m currently learning ... computer science, python, java; 
 - 📫 How to reach me ... elleyfolks@gmail.com, find me on linkedin: https://www.linkedin.com/in/elley-folks-972115255/
 
 <!---
